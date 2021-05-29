@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
 <a href="https://redux.js.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/redux.svg" /></code></a>
 <a href="https://www.typescriptlang.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/typescript.svg" /></code></a>
+<a href="https://react-query.tanstack.com/"><code><img alt="React" height="40px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg" /></code></a>
 </p>
