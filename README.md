@@ -3,6 +3,8 @@
 <!--
 **ratomsky/ratomsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://reactjs.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
