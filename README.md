@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <a href="https://www.postman.com"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/postman.svg" /></code></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratomsky&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratomsky&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
