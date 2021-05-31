@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
+TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian" />
 </p>
 
