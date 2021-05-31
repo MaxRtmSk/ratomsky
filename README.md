@@ -15,16 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
+<p align="center">
 <a href="https://reactjs.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
 <a href="https://redux.js.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/redux.svg" /></code></a>
 <a href="https://www.typescriptlang.org/"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/typescript.svg" /></code></a>
 <a href="https://react-query.tanstack.com/"><code><img alt="React" height="40px" src="https://react-query.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg" /></code></a>
 </p>
 
-<p>
-<a href="https://www.postman.com"><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/postman.svg" /></code></a>
+<p align="center">
+<a href="https://www.postman.com" ><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/postman.svg" /></code></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratomsky&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=prussian" />
+</p>
