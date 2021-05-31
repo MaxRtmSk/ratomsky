@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <a href="https://www.postman.com" ><code><img alt="React" height="40px" src="https://cdn.svgporn.com/logos/postman.svg" /></code></a>
 </p>
 
-<p>
+
 TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian" />
-</p>
 
-<p>
+
+<!-- <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=prussian" />
-</p>
+</p> -->
