@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <details>
 <summary>GitHub Stats</summary>
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian" />
 </p>
 
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=prussian" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=prussian" />
 </p>
 </details>
