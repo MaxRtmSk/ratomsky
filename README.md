@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://reactjs.org/"><code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/react.svg" /></code></a>
 <a href="https://redux.js.org/"><code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/redux.svg" /></code></a>
 <a href="https://www.typescriptlang.org/"><code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/typescript.svg" /></code></a>
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.postman.com" ><code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/postman.svg" /></code></a>
 </p>
-
+ -->
 <details>
 <summary>GitHub Stats</summary>
 <p align="center">
