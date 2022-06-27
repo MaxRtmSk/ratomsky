@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://github.com/ratomsky">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian"&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs />
 </a>
 
 <a href="https://github.com/ratomsky">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=prussian" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=prussian&show_icons=truee&include_all_commits=true&card_width=230" />
 </a>
 </div>
 <!-- </details> -->
