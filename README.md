@@ -30,15 +30,16 @@ Here are some ideas to get you started:
  -->
 <!-- <details> -->
 <!-- <summary>GitHub Stats</summary> -->
-![](https://activity-graph.herokuapp.com/graph?username=ratomsky&theme=light)
+![](https://activity-graph.herokuapp.com/graph?username=ratomsky&theme=github-light)
 
 <div align="center">
 <a href="https://github.com/ratomsky">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ratomsky&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ratomsky&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=vue" />
 </a>
 
 <a href="https://github.com/ratomsky">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=vue&show_icons=false&include_all_commits=true&card_width=230" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=vue&title_color=65c397&show_icons=false&include_all_commits=true&card_width=230" />
 </a>
 </div>
 <!-- </details> -->
