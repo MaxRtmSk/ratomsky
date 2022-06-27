@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://github.com/ratomsky">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ratomsky&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ratomsky&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <a href="https://github.com/ratomsky">
