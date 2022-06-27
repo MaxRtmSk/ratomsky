@@ -28,13 +28,17 @@ Here are some ideas to get you started:
 <a href="https://www.postman.com" ><code><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/postman.svg" /></code></a>
 </p>
  -->
-<details>
-<summary>GitHub Stats</summary>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian" />
-</p>
+<!-- <details> -->
+<!-- <summary>GitHub Stats</summary> -->
+![](https://activity-graph.herokuapp.com/graph?username=ratomsky&theme=github)
 
-<p align="center">
+<div align="center">
+<a href="https://github.com/ratomsky">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratomsky&theme=prussian" />
+</a>
+
+<a href="https://github.com/ratomsky">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=prussian" />
-</p>
-</details>
+</a>
+</div>
+<!-- </details> -->
