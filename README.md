@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/ratomsky">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=truee&include_all_commits=true&card_width=230" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratomsky&layout=compact&theme=vue&show_icons=false&include_all_commits=true&card_width=230" />
 </a>
 </div>
 <!-- </details> -->
